@@ -1,0 +1,10 @@
+main: com.BoniiKwiiDz.AncientDays.Main
+name: AncientCraft
+version: 1.0
+author: BoniiKwiiDz
+description: Prototype
+commands:
+ debugw:
+  description: test structure
+  usage: 
+  
