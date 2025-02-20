@@ -1,0 +1,39 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/state1.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uEFA1"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/state2.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uEFA2"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/state3.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uEFA3"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/state4.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uEFA4"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/state5.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uEFA5"]
+        }
+    ]
+}
